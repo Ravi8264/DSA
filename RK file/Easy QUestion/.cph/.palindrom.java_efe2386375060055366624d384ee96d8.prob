@@ -1,0 +1,1 @@
+{"name":"Local: palindrom","url":"c:\\Java coding\\AnujBhaiya Dsa\\Easy QUestion\\palindrom.java","tests":[{"id":1692006246616,"input":"racecar","output":"true"},{"id":1692006280840,"input":"adr","output":"false"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Java coding\\AnujBhaiya Dsa\\Easy QUestion\\palindrom.java","group":"local","local":true}

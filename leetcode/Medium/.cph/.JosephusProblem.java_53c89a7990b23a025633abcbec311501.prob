@@ -1,0 +1,1 @@
+{"name":"Local: JosephusProblem","url":"c:\\Java coding\\leetcode\\Medium\\JosephusProblem.java","tests":[{"id":1693458160863,"input":"5 2","output":"3"},{"id":1693458192475,"input":"3  4","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Java coding\\leetcode\\Medium\\JosephusProblem.java","group":"local","local":true}

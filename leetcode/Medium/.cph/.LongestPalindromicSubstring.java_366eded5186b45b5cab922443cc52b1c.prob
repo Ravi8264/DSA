@@ -1,0 +1,1 @@
+{"name":"Local: LongestPalindromicSubstring","url":"c:\\Java coding\\leetcode\\Medium\\LongestPalindromicSubstring.java","tests":[{"id":1692264045813,"input":"babad","output":"bab"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Java coding\\leetcode\\Medium\\LongestPalindromicSubstring.java","group":"local","local":true}

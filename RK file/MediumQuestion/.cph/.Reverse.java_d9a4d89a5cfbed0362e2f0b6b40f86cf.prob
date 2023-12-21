@@ -1,0 +1,1 @@
+{"name":"Local: Reverse","url":"c:\\Java coding\\AnujBhaiya Dsa\\MediumQuestion\\Reverse.java","tests":[{"id":1696017191008,"input":"10 3 7\n9 8 7 6 5 4 3 2 1 0","output":"9 8 3 4 5 6 7 2 1 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Java coding\\AnujBhaiya Dsa\\MediumQuestion\\Reverse.java","group":"local","local":true}
